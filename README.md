@@ -74,4 +74,4 @@ Feel free to contribute by submitting pull requests or opening issues. For signi
 This project is licensed under the MIT License.
 
 ## Screenshots
-./Screenshots/Main.png
+<img align="center" src="./Screenshots/main.png" alt="nisu_1610" height="30" width="40" />
