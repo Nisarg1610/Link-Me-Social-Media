@@ -74,4 +74,8 @@ Feel free to contribute by submitting pull requests or opening issues. For signi
 This project is licensed under the MIT License.
 
 ## Screenshots
-<img align="center" src="./Screenshots/main.png" alt="nisu_1610" height="30" width="40" />
+![login](https://github.com/user-attachments/assets/b65e9ab9-5f35-41d4-b768-2abb11509a08)
+![Main](https://github.com/user-attachments/assets/a42b5139-a203-44c1-af0e-b7572993cc98)
+![SignUp](https://github.com/user-attachments/assets/3aa76367-b5fb-46a9-b80f-c3b5d3d4ebf6)
+![Verification](https://github.com/user-attachments/assets/cc16006c-639b-4654-8876-5b23211205ac)
+
