@@ -72,3 +72,6 @@ Feel free to contribute by submitting pull requests or opening issues. For signi
 
 ## License
 This project is licensed under the MIT License.
+
+## Screenshots
+./Screenshots/Main.png
